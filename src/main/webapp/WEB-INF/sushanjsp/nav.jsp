@@ -44,7 +44,7 @@ body {
 
 <div class="topnav">
   <a class="active" href="#home">Home</a>
-  <a href="About">About</a>
+  
   <a href="Contact">Contact Us</a>
   <a href="showAll">ShowAll</a>
   <a href="register">Register</a>
